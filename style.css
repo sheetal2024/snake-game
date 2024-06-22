@@ -86,4 +86,7 @@ body,
 
 #logo {
   position: absolute;
+  top: 350px;
+  left: 50%;
+  transform: translate(-50%, -50%); 
 }
